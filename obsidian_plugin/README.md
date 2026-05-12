@@ -68,6 +68,3 @@ src/
   utils/latexUtils.ts          LaTeX preprocessing for KaTeX
 ```
 
-## License
-
-See [LICENSE](./LICENSE).
